@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">Machine Learning and Computer Vision Engineer. I Help Companies and 100kPeople Build ML Pipelines and Computer Vision Applications.</h3>
+<h3 align="center">Machine Learning and Computer Vision Engineer. I Help Companies and People Build ML Pipelines and Computer Vision Applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alideploy&label=Profile%20views&color=0e75b6&style=flat" alt="alideploy" /> </p>
 
 - 💬 Ask me about **Deep Learning, AI, Computer Vision, NLP**
+
+- 📫 How to reach me **ali.bkr.work@gmail.com**
+
+- ⚡ Fun fact **"Deep learning" is inspired by the human brain: Deep learning, a type of AI, uses artificial neural networks that are loosely modeled after the structure and function of the human brain.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alideploy&show_icons=true&locale=en&layout=compact" alt="alideploy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alideploy&show_icons=true&locale=en" alt="alideploy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alideploy&" alt="alideploy" /></p>
